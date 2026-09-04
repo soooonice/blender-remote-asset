@@ -13,10 +13,10 @@
       },
       "thumbnail": {
         "url": "nice-asset_thumbnails/Collection/.webp",
-        "hash": "SHA256:5eaaefdd0f49a9e808e70031eafd99f2c64ed72b2eb9e66dae6062387dfe783a"
+        "hash": "SHA256:f057e9adce5c002a52cb8fab82c7279d4e9156f1a45432ad828b26afd283460e"
       },
       "meta": {
-        "catalog_id": "4096c6c0-4392-4014-a038-c46ea3639060"
+        "catalog_id": "2f52ce0d-e3dc-4ee4-ab85-1a8d16355c08"
       }
     },
     {
@@ -29,7 +29,7 @@
         "min": "5.2"
       },
       "meta": {
-        "catalog_id": "eb110196-58a9-4787-9ecc-61ca1477200f",
+        "catalog_id": "a7795685-886e-4069-a180-396e5fdbfbf1",
         "properties": [
           {
             "name": "type",
@@ -53,7 +53,7 @@
         "hash": "SHA256:0c4c3da0a10cac74f8dba73a5197aba61b8e4d1b86efdbd248bfc386bb0a72c4"
       },
       "meta": {
-        "catalog_id": "4596cf8b-25c9-4e3c-ac90-bbb372a3cbbc",
+        "catalog_id": "a05d4f54-e811-446e-b3bb-5cdeeef57198",
         "properties": [
           {
             "name": "dimensions",
@@ -72,8 +72,8 @@
   "files": [
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 176702,
-      "hash": "SHA256:3c8cb55576e6d7e36bf434628a86c4bcf4d59ac94382c877af438265f922f29d",
+      "size_in_bytes": 371844,
+      "hash": "SHA256:19c567ccb59d59c711da169b87a3f10be9388ad6731274b4f6da30e38d29e837",
       "blender_version": "5.2.44"
     }
   ]

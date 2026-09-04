@@ -1,13 +1,35 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 176702,
+  "asset_size_bytes": 371844,
   "asset_count": 3,
   "file_count": 1,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:4847193068711851cffac39d24c4dbc47474da48f38cd60d656412746751fd15"
+      "hash": "SHA256:26278c9414804a5461f1e96f1fd49eb37d10fcad2441fc4104a4de59c2505c47"
     }
   ],
-  "catalogs": []
+  "catalogs": [
+    {
+      "path": "Buffer",
+      "uuids": [
+        "a05d4f54-e811-446e-b3bb-5cdeeef57198"
+      ],
+      "simple_name": "Buffer"
+    },
+    {
+      "path": "GN",
+      "uuids": [
+        "a7795685-886e-4069-a180-396e5fdbfbf1"
+      ],
+      "simple_name": "GN"
+    },
+    {
+      "path": "Mesh",
+      "uuids": [
+        "2f52ce0d-e3dc-4ee4-ab85-1a8d16355c08"
+      ],
+      "simple_name": "Mesh"
+    }
+  ]
 }
