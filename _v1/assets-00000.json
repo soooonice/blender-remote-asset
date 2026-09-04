@@ -1,0 +1,80 @@
+{
+  "asset_count": 3,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "\u77f3\u5757",
+      "id_type": "COLLECTION",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Collection/.webp",
+        "hash": "SHA256:5eaaefdd0f49a9e808e70031eafd99f2c64ed72b2eb9e66dae6062387dfe783a"
+      },
+      "meta": {
+        "catalog_id": "4096c6c0-4392-4014-a038-c46ea3639060"
+      }
+    },
+    {
+      "name": "GN-Follw Path Tube",
+      "id_type": "NODETREE",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "eb110196-58a9-4787-9ecc-61ca1477200f",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Buffer-Follow Path Tube",
+      "id_type": "OBJECT",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Object/buffer-follow-path-tube.webp",
+        "hash": "SHA256:0c4c3da0a10cac74f8dba73a5197aba61b8e4d1b86efdbd248bfc386bb0a72c4"
+      },
+      "meta": {
+        "catalog_id": "4596cf8b-25c9-4e3c-ac90-bbb372a3cbbc",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              30.264793395996094,
+              12.220348358154297,
+              2.0
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "nice-asset.blend",
+      "size_in_bytes": 176702,
+      "hash": "SHA256:3c8cb55576e6d7e36bf434628a86c4bcf4d59ac94382c877af438265f922f29d",
+      "blender_version": "5.2.44"
+    }
+  ]
+}
