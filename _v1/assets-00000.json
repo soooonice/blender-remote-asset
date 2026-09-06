@@ -1,9 +1,9 @@
 {
-  "asset_count": 4,
+  "asset_count": 5,
   "file_count": 1,
   "assets": [
     {
-      "name": "rock",
+      "name": "Hair01",
       "id_type": "COLLECTION",
       "files": [
         "nice-asset.blend"
@@ -12,7 +12,24 @@
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "nice-asset_thumbnails/Collection/rock.webp",
+        "url": "nice-asset_thumbnails/Collection/hair01.webp",
+        "hash": "SHA256:c90d8a1729dc24687038fbc66e7401ad2b2ed22e95e19cddfb36a9bbba3720d6"
+      },
+      "meta": {
+        "catalog_id": "2f52ce0d-e3dc-4ee4-ab85-1a8d16355c08"
+      }
+    },
+    {
+      "name": "Rock01",
+      "id_type": "COLLECTION",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Collection/rock01.webp",
         "hash": "SHA256:816ee23272fee5c150b360a30919d53054f5f06135de35e1ac072992a6988bef"
       },
       "meta": {
@@ -89,8 +106,8 @@
   "files": [
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 383044,
-      "hash": "SHA256:01cdabca2e4339c976ae23b1f0797d33e4b78fe5ebb019baac1d99f544b0adff",
+      "size_in_bytes": 433813,
+      "hash": "SHA256:6cf2cdeb4d8e8a64fe4b7d6cea171a85a83e5063799069bc490ee51a1c73a894",
       "blender_version": "5.2.44"
     }
   ]
