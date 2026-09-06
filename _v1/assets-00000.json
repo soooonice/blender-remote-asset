@@ -16,7 +16,7 @@
         "hash": "SHA256:c90d8a1729dc24687038fbc66e7401ad2b2ed22e95e19cddfb36a9bbba3720d6"
       },
       "meta": {
-        "catalog_id": "2f52ce0d-e3dc-4ee4-ab85-1a8d16355c08"
+        "catalog_id": "1ce325b0-bcdd-4d27-a62c-dfe529f789d3"
       }
     },
     {
@@ -33,7 +33,7 @@
         "hash": "SHA256:816ee23272fee5c150b360a30919d53054f5f06135de35e1ac072992a6988bef"
       },
       "meta": {
-        "catalog_id": "2f52ce0d-e3dc-4ee4-ab85-1a8d16355c08"
+        "catalog_id": "1ce325b0-bcdd-4d27-a62c-dfe529f789d3"
       }
     },
     {
@@ -50,7 +50,7 @@
         "hash": "SHA256:acdcb2dc6bc4567cfc99641d813e15da6c2bc5397d5dab0a721499d406ef833e"
       },
       "meta": {
-        "catalog_id": "fda06763-60ff-4561-8f59-16138f176985"
+        "catalog_id": "c238752e-dbab-42eb-9501-ee91727d00ab"
       }
     },
     {
@@ -63,7 +63,7 @@
         "min": "5.2"
       },
       "meta": {
-        "catalog_id": "a7795685-886e-4069-a180-396e5fdbfbf1",
+        "catalog_id": "54edf4af-5dc0-42c5-b588-660a68769d6b",
         "properties": [
           {
             "name": "type",
@@ -87,7 +87,7 @@
         "hash": "SHA256:0c4c3da0a10cac74f8dba73a5197aba61b8e4d1b86efdbd248bfc386bb0a72c4"
       },
       "meta": {
-        "catalog_id": "a05d4f54-e811-446e-b3bb-5cdeeef57198",
+        "catalog_id": "8456c50f-0ece-4c12-8c77-0c47ba728371",
         "properties": [
           {
             "name": "dimensions",
@@ -106,8 +106,8 @@
   "files": [
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 433813,
-      "hash": "SHA256:6cf2cdeb4d8e8a64fe4b7d6cea171a85a83e5063799069bc490ee51a1c73a894",
+      "size_in_bytes": 432947,
+      "hash": "SHA256:74bda435e56ca2a910f05434385a472d3f63548064b3fd657feccd6724ab9d07",
       "blender_version": "5.2.44"
     }
   ]

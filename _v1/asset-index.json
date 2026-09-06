@@ -1,13 +1,42 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 433813,
+  "asset_size_bytes": 432947,
   "asset_count": 5,
   "file_count": 1,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:8dd167e0c8cb0705285e4aa222443fb2f17da082e1c302c2c43317efe949ddb1"
+      "hash": "SHA256:eb2b585d17a199d1ad3048a7b6095e35bbf429ac25686d8ddd87241728f37004"
     }
   ],
-  "catalogs": []
+  "catalogs": [
+    {
+      "path": "Buffer",
+      "uuids": [
+        "8456c50f-0ece-4c12-8c77-0c47ba728371"
+      ],
+      "simple_name": "Buffer"
+    },
+    {
+      "path": "GN",
+      "uuids": [
+        "54edf4af-5dc0-42c5-b588-660a68769d6b"
+      ],
+      "simple_name": "GN"
+    },
+    {
+      "path": "Mesh",
+      "uuids": [
+        "1ce325b0-bcdd-4d27-a62c-dfe529f789d3"
+      ],
+      "simple_name": "Mesh"
+    },
+    {
+      "path": "Tool",
+      "uuids": [
+        "c238752e-dbab-42eb-9501-ee91727d00ab"
+      ],
+      "simple_name": "Tool"
+    }
+  ]
 }
