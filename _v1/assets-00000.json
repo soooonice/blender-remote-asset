@@ -54,26 +54,6 @@
       }
     },
     {
-      "name": "GN-Follw Path Tube",
-      "id_type": "NODETREE",
-      "files": [
-        "nice-asset.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "meta": {
-        "catalog_id": "54edf4af-5dc0-42c5-b588-660a68769d6b",
-        "properties": [
-          {
-            "name": "type",
-            "type": "IDP_INT",
-            "value": 3
-          }
-        ]
-      }
-    },
-    {
       "name": "Buffer-Follow Path Tube",
       "id_type": "OBJECT",
       "files": [
@@ -101,13 +81,42 @@
           }
         ]
       }
+    },
+    {
+      "name": "Buffer-Mat-StripGlow",
+      "id_type": "OBJECT",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Object/buffer-mat-stripglow.webp",
+        "hash": "SHA256:acdb4a67e4ac9183ba4873a1c4d93a481f950711aab83d594ae1bff31e199c88"
+      },
+      "meta": {
+        "catalog_id": "bdb643f5-094e-46e2-b7c3-c715011691b6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9401808977127075,
+              4.524059295654297,
+              0.6047573685646057
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
     }
   ],
   "files": [
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 432947,
-      "hash": "SHA256:74bda435e56ca2a910f05434385a472d3f63548064b3fd657feccd6724ab9d07",
+      "size_in_bytes": 471706,
+      "hash": "SHA256:6dcdf8d803e462160322aeb2d7382f7934b3768fa19e7024cb1190569d47a613",
       "blender_version": "5.2.44"
     }
   ]

@@ -8,5 +8,6 @@ VERSION 1
 
 8456c50f-0ece-4c12-8c77-0c47ba728371:Buffer:Buffer
 54edf4af-5dc0-42c5-b588-660a68769d6b:GN:GN
+bdb643f5-094e-46e2-b7c3-c715011691b6:Material:Material
 1ce325b0-bcdd-4d27-a62c-dfe529f789d3:Mesh:Mesh
 c238752e-dbab-42eb-9501-ee91727d00ab:Tool:Tool

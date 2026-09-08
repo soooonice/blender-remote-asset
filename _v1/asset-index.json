@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 432947,
+  "asset_size_bytes": 471706,
   "asset_count": 5,
   "file_count": 1,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:eb2b585d17a199d1ad3048a7b6095e35bbf429ac25686d8ddd87241728f37004"
+      "hash": "SHA256:417bc09e1168442cc14cde56802fba86291142cdcf70e03d8f47d332d63c739c"
     }
   ],
   "catalogs": [
@@ -23,6 +23,13 @@
         "54edf4af-5dc0-42c5-b588-660a68769d6b"
       ],
       "simple_name": "GN"
+    },
+    {
+      "path": "Material",
+      "uuids": [
+        "bdb643f5-094e-46e2-b7c3-c715011691b6"
+      ],
+      "simple_name": "Material"
     },
     {
       "path": "Mesh",
