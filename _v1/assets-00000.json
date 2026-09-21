@@ -1,5 +1,5 @@
 {
-  "asset_count": 6,
+  "asset_count": 7,
   "file_count": 1,
   "assets": [
     {
@@ -51,6 +51,30 @@
       },
       "meta": {
         "catalog_id": "c238752e-dbab-42eb-9501-ee91727d00ab"
+      }
+    },
+    {
+      "name": "M-mask-radical",
+      "id_type": "NODETREE",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Nodetree/m-mask-radical.webp",
+        "hash": "SHA256:dc76682ca224e9df4f0aa295b3d830c48dc5947c5b0e856589aacf9a7d88b21f"
+      },
+      "meta": {
+        "catalog_id": "bdb643f5-094e-46e2-b7c3-c715011691b6",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
       }
     },
     {
@@ -144,8 +168,8 @@
   "files": [
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 503083,
-      "hash": "SHA256:1da2a259c30acadf88cb00dfdd1040d76fb621038ee3927902c1f4180526de08",
+      "size_in_bytes": 548966,
+      "hash": "SHA256:3752cc0b70fb53a51dea242d23bd0c646972ec93aeaf5d28667758d4a04ac294",
       "blender_version": "5.2.44"
     }
   ]
