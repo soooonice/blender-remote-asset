@@ -1,5 +1,5 @@
 {
-  "asset_count": 7,
+  "asset_count": 9,
   "file_count": 1,
   "assets": [
     {
@@ -88,7 +88,7 @@
       },
       "thumbnail": {
         "url": "nice-asset_thumbnails/Object/buffer-follow-path-tube.webp",
-        "hash": "SHA256:0c4c3da0a10cac74f8dba73a5197aba61b8e4d1b86efdbd248bfc386bb0a72c4"
+        "hash": "SHA256:1e91687accbeadf30d188a65685d4d691fd44157c5533d2f8f44e08f2fc3d777"
       },
       "meta": {
         "catalog_id": "8456c50f-0ece-4c12-8c77-0c47ba728371",
@@ -100,6 +100,35 @@
               3.027693748474121,
               2.5549044609069824,
               2.5549044609069824
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Buffer-Mat-SpiralUp",
+      "id_type": "OBJECT",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Object/buffer-mat-spiralup.webp",
+        "hash": "SHA256:5d246e07477f78c3ee5f01b26d3a5ec97e1de5c525fbd69a6a0a76a9051cf847"
+      },
+      "meta": {
+        "catalog_id": "bdb643f5-094e-46e2-b7c3-c715011691b6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.741936445236206,
+              3.741936445236206,
+              2.0
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -136,6 +165,35 @@
       }
     },
     {
+      "name": "Buffer-Path Points",
+      "id_type": "OBJECT",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Object/buffer-path-points.webp",
+        "hash": "SHA256:da10f52344dc5866649ce73f38b99be885e72516246fc4b8eabd5014083f2e18"
+      },
+      "meta": {
+        "catalog_id": "8456c50f-0ece-4c12-8c77-0c47ba728371",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.686127185821533,
+              2.2773444652557373,
+              3.368819236755371
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
       "name": "Buffer-Path Points Cycle",
       "id_type": "OBJECT",
       "files": [
@@ -146,7 +204,7 @@
       },
       "thumbnail": {
         "url": "nice-asset_thumbnails/Object/buffer-path-points-cycle.webp",
-        "hash": "SHA256:ee47ba9ad02a90133e70be6a43ada7f9be253e9c3ef3d77d376416a6d9aeb5bb"
+        "hash": "SHA256:2473f09346a0bf6c4087d5f9fa780868a3b366d847494a9664171d24c096449d"
       },
       "meta": {
         "catalog_id": "8456c50f-0ece-4c12-8c77-0c47ba728371",
@@ -157,7 +215,7 @@
             "value": [
               2.424809694290161,
               2.0059309005737305,
-              4.323991775512695
+              3.7107717990875244
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -168,8 +226,8 @@
   "files": [
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 548622,
-      "hash": "SHA256:b318c9e69e32c4a7a707f151c6740e957ad0618509a435e05178623376a8b605",
+      "size_in_bytes": 729105,
+      "hash": "SHA256:f6970b95786f49e0d71c8ce19c5dca050c1fb9b7b9a39b14c2e8e9d47afdfc17",
       "blender_version": "5.2.44"
     }
   ]
