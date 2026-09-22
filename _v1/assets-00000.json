@@ -1,7 +1,24 @@
 {
-  "asset_count": 9,
+  "asset_count": 10,
   "file_count": 1,
   "assets": [
+    {
+      "name": "Buffet-GN-MakeHole",
+      "id_type": "COLLECTION",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Collection/buffet-gn-makehole.webp",
+        "hash": "SHA256:c096437535b6fb30f16dd6ae46d5e0ce65a96dc552a7756598b6ba5c57a5f196"
+      },
+      "meta": {
+        "catalog_id": "8456c50f-0ece-4c12-8c77-0c47ba728371"
+      }
+    },
     {
       "name": "Hair01",
       "id_type": "COLLECTION",
@@ -226,8 +243,8 @@
   "files": [
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 729105,
-      "hash": "SHA256:f6970b95786f49e0d71c8ce19c5dca050c1fb9b7b9a39b14c2e8e9d47afdfc17",
+      "size_in_bytes": 811484,
+      "hash": "SHA256:e7e6aa52e510166d5bee9302aa0014fa2ab596f997bf6a474dcf6d3ef5ca9c79",
       "blender_version": "5.2.44"
     }
   ]
