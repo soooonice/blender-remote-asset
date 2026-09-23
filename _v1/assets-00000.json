@@ -3,6 +3,23 @@
   "file_count": 1,
   "assets": [
     {
+      "name": "Buffer-Path Spiral",
+      "id_type": "COLLECTION",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Collection/buffer-path-spiral.webp",
+        "hash": "SHA256:12f3e470a37258ca043329597e22cdd80f566782cf6b90cc44ae13ce39ff726e"
+      },
+      "meta": {
+        "catalog_id": "8456c50f-0ece-4c12-8c77-0c47ba728371"
+      }
+    },
+    {
       "name": "Buffet-GN-MakeHole",
       "id_type": "COLLECTION",
       "files": [
@@ -238,41 +255,13 @@
           }
         ]
       }
-    },
-    {
-      "name": "Buffer-Path Spiral",
-      "id_type": "OBJECT",
-      "files": [
-        "nice-asset.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "nice-asset_thumbnails/Object/buffer-path-spiral.webp",
-        "hash": "SHA256:3e807999866a5a374fc392bfe5bac90fe16c107f480d48138ffa45bf1e490890"
-      },
-      "meta": {
-        "properties": [
-          {
-            "name": "dimensions",
-            "type": "IDP_ARRAY",
-            "value": [
-              2.577366352081299,
-              2.4629602432250977,
-              4.687756538391113
-            ],
-            "itemtype": "IDP_FLOAT"
-          }
-        ]
-      }
     }
   ],
   "files": [
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 1003930,
-      "hash": "SHA256:059cfc595a562151ee56ce3f3b6bce5575128f81aad4b46115fb59b35dd4981c",
+      "size_in_bytes": 939871,
+      "hash": "SHA256:fdb41cfee64073491bc4633593133e12fe1f0f520f919d0fbd0601a80b30da5e",
       "blender_version": "5.2.44"
     }
   ]
