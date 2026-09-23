@@ -250,18 +250,17 @@
       },
       "thumbnail": {
         "url": "nice-asset_thumbnails/Object/buffer-path-spiral.webp",
-        "hash": "SHA256:1775f041e929d14eb334d5270244ee2bb114864fcff589294096ed05652b9362"
+        "hash": "SHA256:3e807999866a5a374fc392bfe5bac90fe16c107f480d48138ffa45bf1e490890"
       },
       "meta": {
-        "catalog_id": "8456c50f-0ece-4c12-8c77-0c47ba728371",
         "properties": [
           {
             "name": "dimensions",
             "type": "IDP_ARRAY",
             "value": [
-              2.246338129043579,
-              2.1341552734375,
-              5.162257671356201
+              2.577366352081299,
+              2.4629602432250977,
+              4.687756538391113
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -272,8 +271,8 @@
   "files": [
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 857216,
-      "hash": "SHA256:94b1950707d9e12222fc5d4e98db996b63648ea8181d2231d52c40749164835f",
+      "size_in_bytes": 1003930,
+      "hash": "SHA256:059cfc595a562151ee56ce3f3b6bce5575128f81aad4b46115fb59b35dd4981c",
       "blender_version": "5.2.44"
     }
   ]
