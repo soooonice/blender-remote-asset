@@ -1,5 +1,5 @@
 {
-  "asset_count": 10,
+  "asset_count": 11,
   "file_count": 1,
   "assets": [
     {
@@ -173,7 +173,7 @@
             "type": "IDP_ARRAY",
             "value": [
               0.9401808977127075,
-              4.524059295654297,
+              1.0498160123825073,
               0.6047573685646057
             ],
             "itemtype": "IDP_FLOAT"
@@ -238,13 +238,42 @@
           }
         ]
       }
+    },
+    {
+      "name": "Buffer-Path Spiral",
+      "id_type": "OBJECT",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Object/buffer-path-spiral.webp",
+        "hash": "SHA256:1775f041e929d14eb334d5270244ee2bb114864fcff589294096ed05652b9362"
+      },
+      "meta": {
+        "catalog_id": "8456c50f-0ece-4c12-8c77-0c47ba728371",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.246338129043579,
+              2.1341552734375,
+              5.162257671356201
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
     }
   ],
   "files": [
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 811484,
-      "hash": "SHA256:e7e6aa52e510166d5bee9302aa0014fa2ab596f997bf6a474dcf6d3ef5ca9c79",
+      "size_in_bytes": 857216,
+      "hash": "SHA256:94b1950707d9e12222fc5d4e98db996b63648ea8181d2231d52c40749164835f",
       "blender_version": "5.2.44"
     }
   ]
