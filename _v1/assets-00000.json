@@ -1,24 +1,7 @@
 {
-  "asset_count": 12,
+  "asset_count": 13,
   "file_count": 1,
   "assets": [
-    {
-      "name": "Buffer-Arrow",
-      "id_type": "COLLECTION",
-      "files": [
-        "nice-asset.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "nice-asset_thumbnails/Collection/buffer-arrow.webp",
-        "hash": "SHA256:7f7866df289bd57e8a25e986219ad229e2be0aa1fb5b0d2e087eea01ff40c868"
-      },
-      "meta": {
-        "catalog_id": "8456c50f-0ece-4c12-8c77-0c47ba728371"
-      }
-    },
     {
       "name": "Buffer-Path Spiral",
       "id_type": "COLLECTION",
@@ -129,6 +112,35 @@
       }
     },
     {
+      "name": "asset-arrow",
+      "id_type": "OBJECT",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Object/asset-arrow.webp",
+        "hash": "SHA256:f41eeb76f61cc89c69c9aee0b6f26b28a39ef56403840ac3be9a0f1c96ab039a"
+      },
+      "meta": {
+        "catalog_id": "1ce325b0-bcdd-4d27-a62c-dfe529f789d3",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              4.348668980469483e-09,
+              0.14322876930236816,
+              0.07370372861623764
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
       "name": "Buffer-Follow Path Tube",
       "id_type": "OBJECT",
       "files": [
@@ -216,6 +228,35 @@
       }
     },
     {
+      "name": "Buffer-Path Arrow",
+      "id_type": "OBJECT",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Object/buffer-path-arrow.webp",
+        "hash": "SHA256:58300d47429184b11fa5c8335adeb42027677c40a70a7de8f9cd52afa26bde02"
+      },
+      "meta": {
+        "catalog_id": "8456c50f-0ece-4c12-8c77-0c47ba728371",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.686127185821533,
+              2.2773444652557373,
+              3.368819236755371
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
       "name": "Buffer-Path Points",
       "id_type": "OBJECT",
       "files": [
@@ -277,8 +318,8 @@
   "files": [
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 959430,
-      "hash": "SHA256:f2dad7e95bd458e8a8daba3af8d939f5e0c58a49a36409d3f82a8fb0ec6f9901",
+      "size_in_bytes": 988752,
+      "hash": "SHA256:3942c5c472bdca2966cdf3f77afadc55e92643347b743b33a0282b3ad15ebe9d",
       "blender_version": "5.2.44"
     }
   ]
