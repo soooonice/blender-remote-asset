@@ -1,7 +1,24 @@
 {
-  "asset_count": 11,
+  "asset_count": 12,
   "file_count": 1,
   "assets": [
+    {
+      "name": "Buffer-Arrow",
+      "id_type": "COLLECTION",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Collection/buffer-arrow.webp",
+        "hash": "SHA256:7f7866df289bd57e8a25e986219ad229e2be0aa1fb5b0d2e087eea01ff40c868"
+      },
+      "meta": {
+        "catalog_id": "8456c50f-0ece-4c12-8c77-0c47ba728371"
+      }
+    },
     {
       "name": "Buffer-Path Spiral",
       "id_type": "COLLECTION",
@@ -260,8 +277,8 @@
   "files": [
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 939871,
-      "hash": "SHA256:fdb41cfee64073491bc4633593133e12fe1f0f520f919d0fbd0601a80b30da5e",
+      "size_in_bytes": 959430,
+      "hash": "SHA256:f2dad7e95bd458e8a8daba3af8d939f5e0c58a49a36409d3f82a8fb0ec6f9901",
       "blender_version": "5.2.44"
     }
   ]
