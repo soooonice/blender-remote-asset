@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 988752,
-  "asset_count": 13,
+  "asset_size_bytes": 2448415,
+  "asset_count": 15,
   "file_count": 1,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:c802797ad3c2e0f95c787b75a00011e394f6951a2836434d29127dc25dd8b2a2"
+      "hash": "SHA256:33c82dd645ddc44902c458ca05fa2805fd28aae5cfbd09a88d1d2e12a041741b"
     }
   ],
   "catalogs": [
@@ -16,6 +16,13 @@
         "8456c50f-0ece-4c12-8c77-0c47ba728371"
       ],
       "simple_name": "Buffer"
+    },
+    {
+      "path": "E.G.",
+      "uuids": [
+        "65f30103-2d66-49e1-a730-1bad6c19ef83"
+      ],
+      "simple_name": "E.G."
     },
     {
       "path": "GN",

@@ -1,5 +1,5 @@
 {
-  "asset_count": 13,
+  "asset_count": 15,
   "file_count": 1,
   "assets": [
     {
@@ -68,6 +68,40 @@
       },
       "meta": {
         "catalog_id": "1ce325b0-bcdd-4d27-a62c-dfe529f789d3"
+      }
+    },
+    {
+      "name": "Solid UV",
+      "id_type": "COLLECTION",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Collection/solid-uv.webp",
+        "hash": "SHA256:11c62533fe3dba8aee242c002bc8076a7aaaf9c5c41ef05d8d3827d6b8c3ce49"
+      },
+      "meta": {
+        "catalog_id": "65f30103-2d66-49e1-a730-1bad6c19ef83"
+      }
+    },
+    {
+      "name": "Spline UV",
+      "id_type": "COLLECTION",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Collection/spline-uv.webp",
+        "hash": "SHA256:fe243ca7334fdc1feff5aa42d926536d634373a7cc6cb535b41b445e5d263026"
+      },
+      "meta": {
+        "catalog_id": "65f30103-2d66-49e1-a730-1bad6c19ef83"
       }
     },
     {
@@ -318,8 +352,8 @@
   "files": [
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 988752,
-      "hash": "SHA256:3942c5c472bdca2966cdf3f77afadc55e92643347b743b33a0282b3ad15ebe9d",
+      "size_in_bytes": 2448415,
+      "hash": "SHA256:600f6ff0c30e17c79c5eda88ddbf7aad3b7e074aa2609250a97b5a1f63e4a386",
       "blender_version": "5.2.44"
     }
   ]
