@@ -3,23 +3,6 @@
   "file_count": 1,
   "assets": [
     {
-      "name": "Buffer-Path Spiral",
-      "id_type": "COLLECTION",
-      "files": [
-        "nice-asset.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "nice-asset_thumbnails/Collection/buffer-path-spiral.webp",
-        "hash": "SHA256:12f3e470a37258ca043329597e22cdd80f566782cf6b90cc44ae13ce39ff726e"
-      },
-      "meta": {
-        "catalog_id": "8456c50f-0ece-4c12-8c77-0c47ba728371"
-      }
-    },
-    {
       "name": "Buffet-GN-MakeHole",
       "id_type": "COLLECTION",
       "files": [
@@ -71,7 +54,7 @@
       }
     },
     {
-      "name": "Solid UV",
+      "name": "UV Solid",
       "id_type": "COLLECTION",
       "files": [
         "nice-asset.blend"
@@ -80,7 +63,7 @@
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "nice-asset_thumbnails/Collection/solid-uv.webp",
+        "url": "nice-asset_thumbnails/Collection/uv-solid.webp",
         "hash": "SHA256:11c62533fe3dba8aee242c002bc8076a7aaaf9c5c41ef05d8d3827d6b8c3ce49"
       },
       "meta": {
@@ -88,7 +71,7 @@
       }
     },
     {
-      "name": "Spline UV",
+      "name": "UV Spline",
       "id_type": "COLLECTION",
       "files": [
         "nice-asset.blend"
@@ -97,7 +80,7 @@
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "nice-asset_thumbnails/Collection/spline-uv.webp",
+        "url": "nice-asset_thumbnails/Collection/uv-spline.webp",
         "hash": "SHA256:fe243ca7334fdc1feff5aa42d926536d634373a7cc6cb535b41b445e5d263026"
       },
       "meta": {
@@ -175,35 +158,6 @@
       }
     },
     {
-      "name": "Buffer-Follow Path Tube",
-      "id_type": "OBJECT",
-      "files": [
-        "nice-asset.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "nice-asset_thumbnails/Object/buffer-follow-path-tube.webp",
-        "hash": "SHA256:1e91687accbeadf30d188a65685d4d691fd44157c5533d2f8f44e08f2fc3d777"
-      },
-      "meta": {
-        "catalog_id": "8456c50f-0ece-4c12-8c77-0c47ba728371",
-        "properties": [
-          {
-            "name": "dimensions",
-            "type": "IDP_ARRAY",
-            "value": [
-              3.027693748474121,
-              2.5549044609069824,
-              2.5549044609069824
-            ],
-            "itemtype": "IDP_FLOAT"
-          }
-        ]
-      }
-    },
-    {
       "name": "Buffer-Mat-SpiralUp",
       "id_type": "OBJECT",
       "files": [
@@ -253,7 +207,7 @@
             "type": "IDP_ARRAY",
             "value": [
               0.9401808977127075,
-              1.0498160123825073,
+              4.524059295654297,
               0.6047573685646057
             ],
             "itemtype": "IDP_FLOAT"
@@ -347,13 +301,47 @@
           }
         ]
       }
+    },
+    {
+      "name": "CurlyCurve-Cluster",
+      "id_type": "OBJECT",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Object/curlycurve-cluster.webp",
+        "hash": "SHA256:fc60ef51c405afeb049868a9e5161b8cbafe113976e7781d9ca68307d7639875"
+      },
+      "meta": {
+        "catalog_id": "65f30103-2d66-49e1-a730-1bad6c19ef83"
+      }
+    },
+    {
+      "name": "CurlyCurve-Single",
+      "id_type": "OBJECT",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Object/curlycurve-single.webp",
+        "hash": "SHA256:901057a24b58986e38836ee71ec089d606495b1bd862d2379111bc5df3d91226"
+      },
+      "meta": {
+        "catalog_id": "65f30103-2d66-49e1-a730-1bad6c19ef83"
+      }
     }
   ],
   "files": [
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 2448415,
-      "hash": "SHA256:600f6ff0c30e17c79c5eda88ddbf7aad3b7e074aa2609250a97b5a1f63e4a386",
+      "size_in_bytes": 2384713,
+      "hash": "SHA256:b6d049d65568b0ca1d2119e152caf5ca0bea1c8d3df40545714656c614f237e4",
       "blender_version": "5.2.44"
     }
   ]
