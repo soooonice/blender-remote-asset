@@ -11,4 +11,5 @@ VERSION 1
 54edf4af-5dc0-42c5-b588-660a68769d6b:GN:GN
 bdb643f5-094e-46e2-b7c3-c715011691b6:Material:Material
 1ce325b0-bcdd-4d27-a62c-dfe529f789d3:Mesh:Mesh
+9c5b04c3-be96-45b5-b053-4c8525641438:Rig Model:Rig Model
 c238752e-dbab-42eb-9501-ee91727d00ab:Tool:Tool
