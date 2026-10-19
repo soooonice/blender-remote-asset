@@ -1,5 +1,5 @@
 {
-  "asset_count": 18,
+  "asset_count": 19,
   "file_count": 1,
   "assets": [
     {
@@ -102,6 +102,29 @@
       },
       "meta": {
         "catalog_id": "c238752e-dbab-42eb-9501-ee91727d00ab"
+      }
+    },
+    {
+      "name": "GN-Falloff",
+      "id_type": "NODETREE",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Nodetree/gn-falloff.webp",
+        "hash": "SHA256:447235318790f263b9cfdb05cb2867b0d27264142ff5694a180f73c968dd23ae"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
       }
     },
     {
@@ -427,8 +450,8 @@
   "files": [
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 2541131,
-      "hash": "SHA256:7473ce90bd377d75351d690353e7265ec4a7d94e92e20adf0d81f1aab51690ec",
+      "size_in_bytes": 2592108,
+      "hash": "SHA256:cdc56784fb5c609ce07333f93b0cb187db391db618e0d3a98f66a517ebdd8b85",
       "blender_version": "5.2.44"
     }
   ]
