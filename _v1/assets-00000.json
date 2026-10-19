@@ -105,29 +105,6 @@
       }
     },
     {
-      "name": "GN-Falloff",
-      "id_type": "NODETREE",
-      "files": [
-        "nice-asset.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "nice-asset_thumbnails/Nodetree/gn-falloff.webp",
-        "hash": "SHA256:447235318790f263b9cfdb05cb2867b0d27264142ff5694a180f73c968dd23ae"
-      },
-      "meta": {
-        "properties": [
-          {
-            "name": "type",
-            "type": "IDP_INT",
-            "value": 0
-          }
-        ]
-      }
-    },
-    {
       "name": "M-mask-radical",
       "id_type": "NODETREE",
       "files": [
@@ -142,6 +119,30 @@
       },
       "meta": {
         "catalog_id": "bdb643f5-094e-46e2-b7c3-c715011691b6",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mat-GN-Falloff",
+      "id_type": "NODETREE",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Nodetree/mat-gn-falloff.webp",
+        "hash": "SHA256:447235318790f263b9cfdb05cb2867b0d27264142ff5694a180f73c968dd23ae"
+      },
+      "meta": {
+        "catalog_id": "54edf4af-5dc0-42c5-b588-660a68769d6b",
         "properties": [
           {
             "name": "type",
@@ -450,8 +451,8 @@
   "files": [
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 2592108,
-      "hash": "SHA256:cdc56784fb5c609ce07333f93b0cb187db391db618e0d3a98f66a517ebdd8b85",
+      "size_in_bytes": 2590918,
+      "hash": "SHA256:3e7eefac238bbc3d38ceb965ef7540eee51f9c7a58e737b8b0cb046c74da25b3",
       "blender_version": "5.2.44"
     }
   ]
