@@ -1,6 +1,6 @@
 {
-  "asset_count": 31,
-  "file_count": 3,
+  "asset_count": 29,
+  "file_count": 2,
   "assets": [
     {
       "name": "Buffet-GN-MakeHole",
@@ -448,40 +448,6 @@
       }
     },
     {
-      "name": "Alpha",
-      "id_type": "COLLECTION",
-      "files": [
-        "rig-model-Agora.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "rig-model-Agora_thumbnails/Collection/alpha.webp",
-        "hash": "SHA256:1867bfb195e8a6d3a8a7d1aca6f927dacc4a083628756fb1069b0624b5894c17"
-      },
-      "meta": {
-        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438"
-      }
-    },
-    {
-      "name": "Delta",
-      "id_type": "COLLECTION",
-      "files": [
-        "rig-model-Agora.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "rig-model-Agora_thumbnails/Collection/delta.webp",
-        "hash": "SHA256:766b1604b27f39f9b3422444dff54dd2db4a2159e6e30ecddb631e8201e70a0f"
-      },
-      "meta": {
-        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438"
-      }
-    },
-    {
       "name": "BALL",
       "id_type": "COLLECTION",
       "files": [
@@ -587,7 +553,10 @@
       },
       "thumbnail": {
         "url": "rig-model_thumbnails/Collection/jack-rig.webp",
-        "hash": "SHA256:2569bf9246f71efa12b6b8598d178f6107a27795af985bc6ed2ff847afef6c6d"
+        "hash": "SHA256:f09f2aa15d2daa4bcb100066481254e1f3fd220347e843d6b8a6e20c926aa2c8"
+      },
+      "meta": {
+        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438"
       }
     },
     {
@@ -601,7 +570,10 @@
       },
       "thumbnail": {
         "url": "rig-model_thumbnails/Collection/jill-rig.webp",
-        "hash": "SHA256:a748bc951b3bf32cd96f182352855647dfe9d412ed00f76a20e84ff217d6183f"
+        "hash": "SHA256:b3dbd410e40333ecf5a3c231f81c0adf685d293fe5dfe6bc9ef4064297f8378c"
+      },
+      "meta": {
+        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438"
       }
     },
     {
@@ -668,15 +640,9 @@
       "blender_version": "5.2.44"
     },
     {
-      "path": "rig-model-Agora.blend",
-      "size_in_bytes": 16143973,
-      "hash": "SHA256:4db810d133d0ad97ee548e524ea50f313d97a52da137d1133ee8b0a7273b71f9",
-      "blender_version": "5.2.44"
-    },
-    {
       "path": "rig-model.blend",
-      "size_in_bytes": 21210526,
-      "hash": "SHA256:c0fe236afee34b599d985372495f5cb500afd733b6949333225f46dae9fce2e7",
+      "size_in_bytes": 21180942,
+      "hash": "SHA256:8f7a494bc99d3638ff500de5fa2ab394cd2d1dba9d3acda4cb122a94afa62713",
       "blender_version": "5.2.44"
     }
   ]
