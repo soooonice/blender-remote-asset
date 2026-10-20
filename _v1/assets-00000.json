@@ -1,6 +1,6 @@
 {
-  "asset_count": 27,
-  "file_count": 2,
+  "asset_count": 29,
+  "file_count": 3,
   "assets": [
     {
       "name": "Buffet-GN-MakeHole",
@@ -448,6 +448,40 @@
       }
     },
     {
+      "name": "Alpha",
+      "id_type": "COLLECTION",
+      "files": [
+        "rig-model-Agora.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "rig-model-Agora_thumbnails/Collection/alpha.webp",
+        "hash": "SHA256:1867bfb195e8a6d3a8a7d1aca6f927dacc4a083628756fb1069b0624b5894c17"
+      },
+      "meta": {
+        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438"
+      }
+    },
+    {
+      "name": "Delta",
+      "id_type": "COLLECTION",
+      "files": [
+        "rig-model-Agora.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "rig-model-Agora_thumbnails/Collection/delta.webp",
+        "hash": "SHA256:766b1604b27f39f9b3422444dff54dd2db4a2159e6e30ecddb631e8201e70a0f"
+      },
+      "meta": {
+        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438"
+      }
+    },
+    {
       "name": "BALL",
       "id_type": "COLLECTION",
       "files": [
@@ -603,6 +637,12 @@
       "path": "nice-asset.blend",
       "size_in_bytes": 2590918,
       "hash": "SHA256:3e7eefac238bbc3d38ceb965ef7540eee51f9c7a58e737b8b0cb046c74da25b3",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "rig-model-Agora.blend",
+      "size_in_bytes": 16143973,
+      "hash": "SHA256:4db810d133d0ad97ee548e524ea50f313d97a52da137d1133ee8b0a7273b71f9",
       "blender_version": "5.2.44"
     },
     {
