@@ -1,5 +1,5 @@
 {
-  "asset_count": 29,
+  "asset_count": 31,
   "file_count": 3,
   "assets": [
     {
@@ -577,6 +577,34 @@
       }
     },
     {
+      "name": "Jack Rig",
+      "id_type": "COLLECTION",
+      "files": [
+        "rig-model.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "rig-model_thumbnails/Collection/jack-rig.webp",
+        "hash": "SHA256:2569bf9246f71efa12b6b8598d178f6107a27795af985bc6ed2ff847afef6c6d"
+      }
+    },
+    {
+      "name": "Jill Rig",
+      "id_type": "COLLECTION",
+      "files": [
+        "rig-model.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "rig-model_thumbnails/Collection/jill-rig.webp",
+        "hash": "SHA256:a748bc951b3bf32cd96f182352855647dfe9d412ed00f76a20e84ff217d6183f"
+      }
+    },
+    {
       "name": "Pendulum",
       "id_type": "COLLECTION",
       "files": [
@@ -647,8 +675,8 @@
     },
     {
       "path": "rig-model.blend",
-      "size_in_bytes": 20338867,
-      "hash": "SHA256:161564dde1df52c8e0f3aa1bfd334f7cb866286b2718dec588daa0b958a953cd",
+      "size_in_bytes": 21210526,
+      "hash": "SHA256:c0fe236afee34b599d985372495f5cb500afd733b6949333225f46dae9fce2e7",
       "blender_version": "5.2.44"
     }
   ]
