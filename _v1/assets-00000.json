@@ -1,6 +1,6 @@
 {
-  "asset_count": 20,
-  "file_count": 1,
+  "asset_count": 30,
+  "file_count": 2,
   "assets": [
     {
       "name": "Buffet-GN-MakeHole",
@@ -470,6 +470,187 @@
           }
         ]
       }
+    },
+    {
+      "name": "BALL",
+      "id_type": "COLLECTION",
+      "files": [
+        "rig-model.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "rig-model_thumbnails/Collection/ball.webp",
+        "hash": "SHA256:c84680aa384b5759ede121d79990e343adbc5e94ee3f8b4c06d1d6258ca82a97"
+      },
+      "meta": {
+        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438",
+        "preferred_import_method": "LINK",
+        "tags": [
+          "rig-model"
+        ],
+        "description": "\u8fd9\u662f\u4e00\u4e2a\u53ef\u4ee5\u62c9\u4f38\u7684\u7403"
+      }
+    },
+    {
+      "name": "Ball-Tail",
+      "id_type": "COLLECTION",
+      "files": [
+        "rig-model.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "rig-model_thumbnails/Collection/ball-tail.webp",
+        "hash": "SHA256:a734543b91d1d2268a6aadab0f98b75db9b9c62396cf176539d5c8526de1b1d1"
+      },
+      "meta": {
+        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438",
+        "preferred_import_method": "LINK"
+      }
+    },
+    {
+      "name": "CH-rain",
+      "id_type": "COLLECTION",
+      "files": [
+        "rig-model.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "rig-model_thumbnails/Collection/ch-rain.webp",
+        "hash": "SHA256:e29acd1e8daca67a9bec28d5c7f251d5933b658d0da27d18d7a275415464fe58"
+      },
+      "meta": {
+        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438",
+        "preferred_import_method": "LINK",
+        "description": "texture: rig-Rain"
+      }
+    },
+    {
+      "name": "CH-snow",
+      "id_type": "COLLECTION",
+      "files": [
+        "rig-model.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "rig-model_thumbnails/Collection/ch-snow.webp",
+        "hash": "SHA256:1d59e6b8e5ebec3dd4e40d93b9783ff51119fa263e9268c20ada06ee702e8f69"
+      },
+      "meta": {
+        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438",
+        "preferred_import_method": "LINK",
+        "description": "texture: rig-Sonw"
+      }
+    },
+    {
+      "name": "FlourSack",
+      "id_type": "COLLECTION",
+      "files": [
+        "rig-model.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "rig-model_thumbnails/Collection/floursack.webp",
+        "hash": "SHA256:dc6405233c1d63a311a20f33c9b2ff3457258fa5481c9aef0bdcc8c4aeaba9a3"
+      }
+    },
+    {
+      "name": "Jack Rig",
+      "id_type": "COLLECTION",
+      "files": [
+        "rig-model.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "rig-model_thumbnails/Collection/jack-rig.webp",
+        "hash": "SHA256:f09f2aa15d2daa4bcb100066481254e1f3fd220347e843d6b8a6e20c926aa2c8"
+      },
+      "meta": {
+        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438"
+      }
+    },
+    {
+      "name": "Jill Rig",
+      "id_type": "COLLECTION",
+      "files": [
+        "rig-model.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "rig-model_thumbnails/Collection/jill-rig.webp",
+        "hash": "SHA256:b3dbd410e40333ecf5a3c231f81c0adf685d293fe5dfe6bc9ef4064297f8378c"
+      },
+      "meta": {
+        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438"
+      }
+    },
+    {
+      "name": "Pendulum",
+      "id_type": "COLLECTION",
+      "files": [
+        "rig-model.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "rig-model_thumbnails/Collection/pendulum.webp",
+        "hash": "SHA256:683a20bbf81eebcda8bb0396af9987fee1e0d74d2ec27b789f0fb61ba99cf2cc"
+      },
+      "meta": {
+        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438",
+        "preferred_import_method": "LINK"
+      }
+    },
+    {
+      "name": "sky",
+      "id_type": "COLLECTION",
+      "files": [
+        "rig-model.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "rig-model_thumbnails/Collection/sky.webp",
+        "hash": "SHA256:24c15ed828e757327296c490ff3049dd2bb75770d15f0585b5170a970125f6b5"
+      },
+      "meta": {
+        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438",
+        "preferred_import_method": "LINK"
+      }
+    },
+    {
+      "name": "TRIDENT-CHARACTER",
+      "id_type": "COLLECTION",
+      "files": [
+        "rig-model.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "rig-model_thumbnails/Collection/trident-character.webp",
+        "hash": "SHA256:7cfcdc57215cd7f7bc005df01443ace82962d2329778c63660cb4afa1b110eb1"
+      },
+      "meta": {
+        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438",
+        "preferred_import_method": "LINK",
+        "description": "texture-rig-Trident"
+      }
     }
   ],
   "files": [
@@ -477,6 +658,12 @@
       "path": "nice-asset.blend",
       "size_in_bytes": 2613413,
       "hash": "SHA256:63433405d1463b8af19688abd88b59c79237c2cb7a66b2e7e34b8d1e110d48f9",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "rig-model.blend",
+      "size_in_bytes": 21409223,
+      "hash": "SHA256:055603070d5369afa2824fdcdeb849c7ef7a83e8e9e8eb0a85e820e3621cdced",
       "blender_version": "5.2.44"
     }
   ]
