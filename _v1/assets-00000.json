@@ -1,5 +1,5 @@
 {
-  "asset_count": 30,
+  "asset_count": 31,
   "file_count": 2,
   "assets": [
     {
@@ -616,6 +616,20 @@
       }
     },
     {
+      "name": "Sandbag",
+      "id_type": "COLLECTION",
+      "files": [
+        "rig-model.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "rig-model_thumbnails/Collection/sandbag.webp",
+        "hash": "SHA256:484d3fd2ce2bf5adad77b7c5d6b65da8447e6503cbe0a78e4e327f3a5b62332d"
+      }
+    },
+    {
       "name": "sky",
       "id_type": "COLLECTION",
       "files": [
@@ -662,8 +676,8 @@
     },
     {
       "path": "rig-model.blend",
-      "size_in_bytes": 21409223,
-      "hash": "SHA256:055603070d5369afa2824fdcdeb849c7ef7a83e8e9e8eb0a85e820e3621cdced",
+      "size_in_bytes": 21819737,
+      "hash": "SHA256:87c2f7eb66454988dbadc004bfbbc9d5c2e68d92021ad8c8596a24d875e1ef8a",
       "blender_version": "5.2.44"
     }
   ]
