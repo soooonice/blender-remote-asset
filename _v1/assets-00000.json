@@ -1,6 +1,6 @@
 {
-  "asset_count": 31,
-  "file_count": 2,
+  "asset_count": 32,
+  "file_count": 3,
   "assets": [
     {
       "name": "Buffet-GN-MakeHole",
@@ -472,6 +472,54 @@
       }
     },
     {
+      "name": "Alpha",
+      "id_type": "COLLECTION",
+      "files": [
+        "rig-model-Agora.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "rig-model-Agora_thumbnails/Collection/alpha.webp",
+        "hash": "SHA256:1867bfb195e8a6d3a8a7d1aca6f927dacc4a083628756fb1069b0624b5894c17"
+      },
+      "meta": {
+        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438"
+      }
+    },
+    {
+      "name": "Delta",
+      "id_type": "COLLECTION",
+      "files": [
+        "rig-model-Agora.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "rig-model-Agora_thumbnails/Collection/delta.webp",
+        "hash": "SHA256:766b1604b27f39f9b3422444dff54dd2db4a2159e6e30ecddb631e8201e70a0f"
+      },
+      "meta": {
+        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438"
+      }
+    },
+    {
+      "name": "*Sandbag",
+      "id_type": "COLLECTION",
+      "files": [
+        "rig-model.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "rig-model_thumbnails/Collection/sandbag.webp",
+        "hash": "SHA256:50ecc38358cf6da1ec7f78d01c15b64aa220e38a822ecc0440c246026850096a"
+      }
+    },
+    {
       "name": "BALL",
       "id_type": "COLLECTION",
       "files": [
@@ -619,41 +667,6 @@
       }
     },
     {
-      "name": "Sandbag",
-      "id_type": "COLLECTION",
-      "files": [
-        "rig-model.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "rig-model_thumbnails/Collection/sandbag.webp",
-        "hash": "SHA256:484d3fd2ce2bf5adad77b7c5d6b65da8447e6503cbe0a78e4e327f3a5b62332d"
-      },
-      "meta": {
-        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438"
-      }
-    },
-    {
-      "name": "sky",
-      "id_type": "COLLECTION",
-      "files": [
-        "rig-model.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "rig-model_thumbnails/Collection/sky.webp",
-        "hash": "SHA256:24c15ed828e757327296c490ff3049dd2bb75770d15f0585b5170a970125f6b5"
-      },
-      "meta": {
-        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438",
-        "preferred_import_method": "LINK"
-      }
-    },
-    {
       "name": "TRIDENT-CHARACTER",
       "id_type": "COLLECTION",
       "files": [
@@ -676,14 +689,20 @@
   "files": [
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 2613413,
-      "hash": "SHA256:63433405d1463b8af19688abd88b59c79237c2cb7a66b2e7e34b8d1e110d48f9",
+      "size_in_bytes": 2612957,
+      "hash": "SHA256:07e8ce9aad11b0be16c67b316a6e5fb85841f092a3f161a9580326dc07b57421",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "rig-model-Agora.blend",
+      "size_in_bytes": 16127306,
+      "hash": "SHA256:1dd3af72a26196545c9a23c187d557081ec180305df6018f19b5ac8e6e1e38fa",
       "blender_version": "5.2.44"
     },
     {
       "path": "rig-model.blend",
-      "size_in_bytes": 21817873,
-      "hash": "SHA256:ef8eb10c9e2bb9d7a1807d9a574f637f8abe9017887da8690fbe83587a8859d6",
+      "size_in_bytes": 21561329,
+      "hash": "SHA256:421c27893e967aa6efb7978e497349e715b7063db6779778dccf67ae352fe26e",
       "blender_version": "5.2.44"
     }
   ]
