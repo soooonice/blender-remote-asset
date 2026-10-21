@@ -682,8 +682,8 @@
     },
     {
       "path": "rig-model.blend",
-      "size_in_bytes": 21817792,
-      "hash": "SHA256:9fd5a62cf6cd753f22235e156893d2cd5c7f549a6a70ab463bb745ec93ab57d5",
+      "size_in_bytes": 21817873,
+      "hash": "SHA256:ef8eb10c9e2bb9d7a1807d9a574f637f8abe9017887da8690fbe83587a8859d6",
       "blender_version": "5.2.44"
     }
   ]
