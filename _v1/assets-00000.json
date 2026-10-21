@@ -517,6 +517,9 @@
       "thumbnail": {
         "url": "rig-model_thumbnails/Collection/sandbag.webp",
         "hash": "SHA256:50ecc38358cf6da1ec7f78d01c15b64aa220e38a822ecc0440c246026850096a"
+      },
+      "meta": {
+        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438"
       }
     },
     {
@@ -701,8 +704,8 @@
     },
     {
       "path": "rig-model.blend",
-      "size_in_bytes": 21561329,
-      "hash": "SHA256:421c27893e967aa6efb7978e497349e715b7063db6779778dccf67ae352fe26e",
+      "size_in_bytes": 21562652,
+      "hash": "SHA256:8cb4da6fc5245ca3f599071466668ee82f592f8ccb9c853889e14e5f36a97f7f",
       "blender_version": "5.2.44"
     }
   ]
