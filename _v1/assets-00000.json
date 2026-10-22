@@ -1,6 +1,6 @@
 {
-  "asset_count": 32,
-  "file_count": 3,
+  "asset_count": 33,
+  "file_count": 4,
   "assets": [
     {
       "name": "Buffet-GN-MakeHole",
@@ -472,6 +472,20 @@
       }
     },
     {
+      "name": "PY_QuickScene",
+      "id_type": "OBJECT",
+      "files": [
+        "Python-Scripts.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Python-Scripts_thumbnails/Object/py_quickscene.webp",
+        "hash": "SHA256:de2ecdf49d16b722c5b0e6c65bed7e3a3d91a31134f5b725f6300f6668804423"
+      }
+    },
+    {
       "name": "Alpha",
       "id_type": "COLLECTION",
       "files": [
@@ -690,6 +704,12 @@
     }
   ],
   "files": [
+    {
+      "path": "Python-Scripts.blend",
+      "size_in_bytes": 120216,
+      "hash": "SHA256:cd922eb037a4a555c9abb0fcc7eebb53956a0ed71233049b8612ce076048c3d5",
+      "blender_version": "5.2.44"
+    },
     {
       "path": "nice-asset.blend",
       "size_in_bytes": 2612957,
