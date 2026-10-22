@@ -483,6 +483,9 @@
       "thumbnail": {
         "url": "Python-Scripts_thumbnails/Object/py_quickscene.webp",
         "hash": "SHA256:de2ecdf49d16b722c5b0e6c65bed7e3a3d91a31134f5b725f6300f6668804423"
+      },
+      "meta": {
+        "catalog_id": "0f89c769-bd54-48ea-adc7-bb9fc6e55c56"
       }
     },
     {
@@ -706,8 +709,8 @@
   "files": [
     {
       "path": "Python-Scripts.blend",
-      "size_in_bytes": 120216,
-      "hash": "SHA256:cd922eb037a4a555c9abb0fcc7eebb53956a0ed71233049b8612ce076048c3d5",
+      "size_in_bytes": 116177,
+      "hash": "SHA256:e911039c5773a26f906c1793de82abec62e4ece59eb30acb5ad59e710510aad4",
       "blender_version": "5.2.44"
     },
     {

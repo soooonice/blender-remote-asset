@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 40423131,
+  "asset_size_bytes": 40419092,
   "asset_count": 33,
   "file_count": 4,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:b66e688dced5e2b446d2955436d3a762bafca521632458d15fdbd14e8c729192"
+      "hash": "SHA256:71c0d47937c2b5a8bdf69b77c525a7764a85b754d559181f8394cef692c8da75"
     }
   ],
   "catalogs": [
@@ -44,6 +44,13 @@
         "1ce325b0-bcdd-4d27-a62c-dfe529f789d3"
       ],
       "simple_name": "Mesh"
+    },
+    {
+      "path": "Python",
+      "uuids": [
+        "0f89c769-bd54-48ea-adc7-bb9fc6e55c56"
+      ],
+      "simple_name": "Python"
     },
     {
       "path": "Rig Model",
