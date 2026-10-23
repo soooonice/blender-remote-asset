@@ -1,5 +1,5 @@
 {
-  "asset_count": 33,
+  "asset_count": 34,
   "file_count": 4,
   "assets": [
     {
@@ -255,7 +255,7 @@
             "type": "IDP_ARRAY",
             "value": [
               0.9401808977127075,
-              4.524059295654297,
+              1.0498160123825073,
               0.6047573685646057
             ],
             "itemtype": "IDP_FLOAT"
@@ -344,6 +344,35 @@
               2.424809694290161,
               2.0059309005737305,
               3.7107717990875244
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Buffer-Path Wave Points",
+      "id_type": "OBJECT",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Object/buffer-path-wave-points.webp",
+        "hash": "SHA256:638fa10cc444db47ca0c7907a0ebc35533b6f5aea6d8d1e3c46518d3f9f551d7"
+      },
+      "meta": {
+        "catalog_id": "8456c50f-0ece-4c12-8c77-0c47ba728371",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              4.067505359649658,
+              2.2773444652557373,
+              2.2773444652557373
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -715,8 +744,8 @@
     },
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 2612957,
-      "hash": "SHA256:07e8ce9aad11b0be16c67b316a6e5fb85841f092a3f161a9580326dc07b57421",
+      "size_in_bytes": 2690164,
+      "hash": "SHA256:879299cac2d965777a0e931a976ca30e28cc172c1ba64b2095338c49f21aabcb",
       "blender_version": "5.2.44"
     },
     {
