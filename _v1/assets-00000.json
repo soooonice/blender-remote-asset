@@ -115,7 +115,7 @@
       },
       "thumbnail": {
         "url": "nice-asset_thumbnails/Nodetree/gn-vector-debug.webp",
-        "hash": "SHA256:ccda03e1dfb45e1a150e90460e59c91e018eb9eace9637ec07b09d08dffa57d7"
+        "hash": "SHA256:992820bfa969ebe1c78775e8515dc754bd939c02ab9e32f369b6fb1dbedae62b"
       },
       "meta": {
         "catalog_id": "54edf4af-5dc0-42c5-b588-660a68769d6b",
@@ -768,8 +768,8 @@
     },
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 2702998,
-      "hash": "SHA256:6d4b47ea1defdc5efe3a741b0e4191d5db229ee4bfef48ca5bb88f86353b101a",
+      "size_in_bytes": 2704430,
+      "hash": "SHA256:ba6ff02f9c4f4a10c37c56ee49be6afff1397976c24157225d975abb91d85892",
       "blender_version": "5.2.44"
     },
     {
