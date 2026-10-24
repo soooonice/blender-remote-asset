@@ -1,5 +1,5 @@
 {
-  "asset_count": 34,
+  "asset_count": 35,
   "file_count": 4,
   "assets": [
     {
@@ -102,6 +102,30 @@
       },
       "meta": {
         "catalog_id": "c238752e-dbab-42eb-9501-ee91727d00ab"
+      }
+    },
+    {
+      "name": "GN-Vector Debug",
+      "id_type": "NODETREE",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Nodetree/gn-vector-debug.webp",
+        "hash": "SHA256:ccda03e1dfb45e1a150e90460e59c91e018eb9eace9637ec07b09d08dffa57d7"
+      },
+      "meta": {
+        "catalog_id": "54edf4af-5dc0-42c5-b588-660a68769d6b",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
       }
     },
     {
@@ -744,8 +768,8 @@
     },
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 2690164,
-      "hash": "SHA256:879299cac2d965777a0e931a976ca30e28cc172c1ba64b2095338c49f21aabcb",
+      "size_in_bytes": 2702998,
+      "hash": "SHA256:6d4b47ea1defdc5efe3a741b0e4191d5db229ee4bfef48ca5bb88f86353b101a",
       "blender_version": "5.2.44"
     },
     {
