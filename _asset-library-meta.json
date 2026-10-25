@@ -2,7 +2,7 @@
   "api_versions": {
     "v1": {
       "url": "_v1/asset-index.json",
-      "hash": "SHA256:36fc65086bd26b328bba260a7833c68bb563ae80dba5d055741bd3d3fa0b99e3"
+      "hash": "SHA256:2d1777661173ecde05538ec43f484374e5a406d254708ed985e7e43f1de2b78c"
     }
   },
   "name": "Your Asset Library",

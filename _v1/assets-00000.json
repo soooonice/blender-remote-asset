@@ -762,8 +762,8 @@
   "files": [
     {
       "path": "Python-Scripts.blend",
-      "size_in_bytes": 140804,
-      "hash": "SHA256:eaae2d03f1d1b4f58c0cb8a0ca1d18ed4dd604a2a5874831b01bfa529c0b8958",
+      "size_in_bytes": 139196,
+      "hash": "SHA256:07a77487d5be7aaca0a288a6b6bc84cffd4d0d1d46757a9467acdc4afa244243",
       "blender_version": "5.2.44"
     },
     {
