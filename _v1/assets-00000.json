@@ -1,5 +1,5 @@
 {
-  "asset_count": 35,
+  "asset_count": 38,
   "file_count": 4,
   "assets": [
     {
@@ -105,6 +105,47 @@
       }
     },
     {
+      "name": "Mat-Arrow",
+      "id_type": "MATERIAL",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Material/mat-arrow.webp",
+        "hash": "SHA256:f1fc2c1e9498fe70b376e1b0d19df933b1941200e27295d7969f0658ec4c0942"
+      },
+      "meta": {
+        "catalog_id": "bdb643f5-094e-46e2-b7c3-c715011691b6"
+      }
+    },
+    {
+      "name": "GN-Curve To Ribbon",
+      "id_type": "NODETREE",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Nodetree/gn-curve-to-ribbon.webp",
+        "hash": "SHA256:dad120349d346029017afa59233971fd5274ec5f98bdad42c0798cc6dbb4ff0c"
+      },
+      "meta": {
+        "catalog_id": "54edf4af-5dc0-42c5-b588-660a68769d6b",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
       "name": "GN-Vector Debug",
       "id_type": "NODETREE",
       "files": [
@@ -143,6 +184,30 @@
       },
       "meta": {
         "catalog_id": "bdb643f5-094e-46e2-b7c3-c715011691b6",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mat-GN-Arrow",
+      "id_type": "NODETREE",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Nodetree/mat-gn-arrow.webp",
+        "hash": "SHA256:1cd9f76ca32eba3e3152f7b15756e293583189065a246f3f981aaa0a694dbee2"
+      },
+      "meta": {
+        "catalog_id": "54edf4af-5dc0-42c5-b588-660a68769d6b",
         "properties": [
           {
             "name": "type",
@@ -768,8 +833,8 @@
     },
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 2705585,
-      "hash": "SHA256:43cebafae1b51092b04679480c1d1d40ceb75c3d5aad68772dd17f52a7677d73",
+      "size_in_bytes": 2909765,
+      "hash": "SHA256:32133859f0bd0c295c00dba8988affb6640e658c88b6742dbe73590c4f7a0624",
       "blender_version": "5.2.44"
     },
     {
