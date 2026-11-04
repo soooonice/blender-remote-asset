@@ -1,5 +1,5 @@
 {
-  "asset_count": 39,
+  "asset_count": 38,
   "file_count": 4,
   "assets": [
     {
@@ -680,23 +680,6 @@
       }
     },
     {
-      "name": "Ball-Legs",
-      "id_type": "COLLECTION",
-      "files": [
-        "rig-model.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "rig-model_thumbnails/Collection/ball-legs.webp",
-        "hash": "SHA256:55dddb38850007f1ca796f41c0da4569687748984f4adb11a4b9cdfb4888a7bf"
-      },
-      "meta": {
-        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438"
-      }
-    },
-    {
       "name": "Ball-Tail",
       "id_type": "COLLECTION",
       "files": [
@@ -862,8 +845,8 @@
     },
     {
       "path": "rig-model.blend",
-      "size_in_bytes": 28850336,
-      "hash": "SHA256:6f46befcefc3d67db0b639362ec16e0560ddba9fc9507881cc268314b65dc7b0",
+      "size_in_bytes": 21577611,
+      "hash": "SHA256:a6dbc6f9306cdf1d645f78178a4e0d042be8cd8ce98501b12df5bebeb78d1309",
       "blender_version": "5.2.44"
     }
   ]
