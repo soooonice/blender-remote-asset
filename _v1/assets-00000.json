@@ -693,6 +693,7 @@
         "hash": "SHA256:906f2e4056b6103ac3f6cf842ade9b7b29f2d223dab85b151ebc802d7d79685a"
       },
       "meta": {
+        "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438",
         "description": "FK/IK \u5207\u6362\u5728Foot\u63a7\u5236\u5668\u4e0a"
       }
     },
@@ -862,8 +863,8 @@
     },
     {
       "path": "rig-model.blend",
-      "size_in_bytes": 28832856,
-      "hash": "SHA256:425afd03016a17d890a894ee12f82a41475da46bd0ca694a68a475f4f24257f0",
+      "size_in_bytes": 28831938,
+      "hash": "SHA256:ba697d98194dfcec383e434a8fc0b751c02f132dbdbf230e010814d0043ea6d4",
       "blender_version": "5.2.44"
     }
   ]
