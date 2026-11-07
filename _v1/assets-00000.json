@@ -1,5 +1,5 @@
 {
-  "asset_count": 39,
+  "asset_count": 40,
   "file_count": 4,
   "assets": [
     {
@@ -469,6 +469,36 @@
       }
     },
     {
+      "name": "Bumbu Palte",
+      "id_type": "OBJECT",
+      "files": [
+        "nice-asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "nice-asset_thumbnails/Object/bumbu-palte.webp",
+        "hash": "SHA256:50321da2def0218b77e2eb2a3589a290e3c79953e33ac3e75df10e4a3dd88e75"
+      },
+      "meta": {
+        "catalog_id": "c238752e-dbab-42eb-9501-ee91727d00ab",
+        "description": "256x256mm",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.273719847202301,
+              0.2717256546020508,
+              0.0
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
       "name": "CurlyCurve-Cluster",
       "id_type": "OBJECT",
       "files": [
@@ -851,8 +881,8 @@
     },
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 2909765,
-      "hash": "SHA256:32133859f0bd0c295c00dba8988affb6640e658c88b6742dbe73590c4f7a0624",
+      "size_in_bytes": 2992944,
+      "hash": "SHA256:ca2fcfa4083620fd6cc8b527726694a18572988f9242d2b4ae04b70e3d7b3ade",
       "blender_version": "5.2.44"
     },
     {
