@@ -881,8 +881,8 @@
     },
     {
       "path": "nice-asset.blend",
-      "size_in_bytes": 2992944,
-      "hash": "SHA256:ca2fcfa4083620fd6cc8b527726694a18572988f9242d2b4ae04b70e3d7b3ade",
+      "size_in_bytes": 2992714,
+      "hash": "SHA256:7a645d4dfebadfaf05a6c6ff7be3c5b1be51f2e93e356b768bc450f96146456d",
       "blender_version": "5.2.44"
     },
     {
