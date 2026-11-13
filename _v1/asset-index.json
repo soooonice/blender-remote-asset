@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 48044357,
-  "asset_count": 40,
+  "asset_size_bytes": 48128388,
+  "asset_count": 41,
   "file_count": 4,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:c50ed96fbe307a5d91b99b83bf6e78682553f666cfa261d2c7f106711832521c"
+      "hash": "SHA256:be1598260304bb8188626f026fc9c0f43ce74fa541109a1f5e99cd34718f9826"
     }
   ],
   "catalogs": [
@@ -25,13 +25,6 @@
       "simple_name": "E.G."
     },
     {
-      "path": "GN",
-      "uuids": [
-        "54edf4af-5dc0-42c5-b588-660a68769d6b"
-      ],
-      "simple_name": "GN"
-    },
-    {
       "path": "Material",
       "uuids": [
         "bdb643f5-094e-46e2-b7c3-c715011691b6"
@@ -44,6 +37,13 @@
         "1ce325b0-bcdd-4d27-a62c-dfe529f789d3"
       ],
       "simple_name": "Mesh"
+    },
+    {
+      "path": "Nice GN",
+      "uuids": [
+        "54edf4af-5dc0-42c5-b588-660a68769d6b"
+      ],
+      "simple_name": "Nice GN"
     },
     {
       "path": "Python",
