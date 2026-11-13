@@ -2480,7 +2480,7 @@
         "rig-model.blend"
       ],
       "bl_versions": {
-        "min": "5.2"
+        "min": "5.3"
       },
       "thumbnail": {
         "url": "rig-model_thumbnails/Collection/sandbag.webp",
@@ -2497,7 +2497,7 @@
         "rig-model.blend"
       ],
       "bl_versions": {
-        "min": "5.2"
+        "min": "5.3"
       },
       "thumbnail": {
         "url": "rig-model_thumbnails/Collection/ball.webp",
@@ -2519,7 +2519,7 @@
         "rig-model.blend"
       ],
       "bl_versions": {
-        "min": "5.2"
+        "min": "5.3"
       },
       "thumbnail": {
         "url": "rig-model_thumbnails/Collection/ball-legs.webp",
@@ -2527,6 +2527,7 @@
       },
       "meta": {
         "catalog_id": "9c5b04c3-be96-45b5-b053-4c8525641438",
+        "preferred_import_method": "LINK",
         "description": "FK/IK \u5207\u6362\u5728Foot\u63a7\u5236\u5668\u4e0a"
       }
     },
@@ -2537,7 +2538,7 @@
         "rig-model.blend"
       ],
       "bl_versions": {
-        "min": "5.2"
+        "min": "5.3"
       },
       "thumbnail": {
         "url": "rig-model_thumbnails/Collection/ball-tail.webp",
@@ -2555,7 +2556,7 @@
         "rig-model.blend"
       ],
       "bl_versions": {
-        "min": "5.2"
+        "min": "5.3"
       },
       "thumbnail": {
         "url": "rig-model_thumbnails/Collection/ch-rain.webp",
@@ -2574,7 +2575,7 @@
         "rig-model.blend"
       ],
       "bl_versions": {
-        "min": "5.2"
+        "min": "5.3"
       },
       "thumbnail": {
         "url": "rig-model_thumbnails/Collection/ch-snow.webp",
@@ -2593,7 +2594,7 @@
         "rig-model.blend"
       ],
       "bl_versions": {
-        "min": "5.2"
+        "min": "5.3"
       },
       "thumbnail": {
         "url": "rig-model_thumbnails/Collection/floursack.webp",
@@ -2610,7 +2611,7 @@
         "rig-model.blend"
       ],
       "bl_versions": {
-        "min": "5.2"
+        "min": "5.3"
       },
       "thumbnail": {
         "url": "rig-model_thumbnails/Collection/jack-rig.webp",
@@ -2627,7 +2628,7 @@
         "rig-model.blend"
       ],
       "bl_versions": {
-        "min": "5.2"
+        "min": "5.3"
       },
       "thumbnail": {
         "url": "rig-model_thumbnails/Collection/jill-rig.webp",
@@ -2644,7 +2645,7 @@
         "rig-model.blend"
       ],
       "bl_versions": {
-        "min": "5.2"
+        "min": "5.3"
       },
       "thumbnail": {
         "url": "rig-model_thumbnails/Collection/pendulum.webp",
@@ -2662,7 +2663,7 @@
         "rig-model.blend"
       ],
       "bl_versions": {
-        "min": "5.2"
+        "min": "5.3"
       },
       "thumbnail": {
         "url": "rig-model_thumbnails/Collection/trident-character.webp",
@@ -2696,9 +2697,9 @@
     },
     {
       "path": "rig-model.blend",
-      "size_in_bytes": 28839516,
-      "hash": "SHA256:3908e5546e79ba1fd239cf36ad9df2c6e799591b7b326bff76b9c75dc91fbca4",
-      "blender_version": "5.2.44"
+      "size_in_bytes": 28785141,
+      "hash": "SHA256:af5febe1c562d72578b166f81e9f0c1a087a88420491c3d830617043fb75c436",
+      "blender_version": "5.3.31"
     }
   ]
 }
