@@ -2513,7 +2513,7 @@
       }
     },
     {
-      "name": "Ball-Legs",
+      "name": "Ball-Legs-1.2",
       "id_type": "COLLECTION",
       "files": [
         "rig-model.blend"
@@ -2522,7 +2522,7 @@
         "min": "5.3"
       },
       "thumbnail": {
-        "url": "rig-model_thumbnails/Collection/ball-legs.webp",
+        "url": "rig-model_thumbnails/Collection/ball-legs-12.webp",
         "hash": "SHA256:2cf9f7a703212b5f83079e5d5252fa24f8ed75500b694bb1fa5171f8ae289f28"
       },
       "meta": {
@@ -2697,8 +2697,8 @@
     },
     {
       "path": "rig-model.blend",
-      "size_in_bytes": 28836579,
-      "hash": "SHA256:5dfb91fdb90c401644da07c1b31bcccfc2796e050c040fbe96ff0e4632ace1de",
+      "size_in_bytes": 28834508,
+      "hash": "SHA256:ff6c01e8d224449a656ad96e27856ba778366112cbd8985934d1aad57e875858",
       "blender_version": "5.3.31"
     }
   ]
